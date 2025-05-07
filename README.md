@@ -10,8 +10,8 @@ Includes two scripts:
 - Node.js v14 or higher  
 - npm (comes with Node.js)  
 - A `.y4m` mock video file for each flow in the project root:
-  - `POI_vid.y4m` for the POI script  
-  - `POA_mock.y4m` for the POA script  
+  - `POI_vid.y4m` for the POI script. Can get them from the KYC team
+  - `POA_mock.y4m` for the POA script. Can get them from the KYC team 
 
 ## Installation
 
