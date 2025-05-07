@@ -1,0 +1,15 @@
+{
+  "name": "kyc_flow_automation",
+  "version": "1.0.0",
+  "main": "poi_flow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "playwright": "^1.52.0"
+  }
+}
