@@ -21,7 +21,11 @@ Includes two scripts:
    ```bash
    npm install
    ```
+3. If its the first time working with Playwright, you need to install it as well:
 
+   ```bash
+   npx playwright install
+   ```
 ## Usage
 
 Both scripts require three command-line arguments in the following order:
