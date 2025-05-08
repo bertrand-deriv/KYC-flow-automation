@@ -1,4 +1,4 @@
-# kyc_flow_automation
+# kyc flow automation
 
 Automates KYC (Know Your Customer) flows for Deriv’s staging environment using Playwright and a fake camera feed.  
 Includes two scripts:
